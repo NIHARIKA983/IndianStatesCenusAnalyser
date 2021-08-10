@@ -5,3 +5,7 @@ com/bridgelabz/CensusAnalyserException.java
  com.bridgelabz.CensusAnalyserException$ExceptionType
 com/bridgelabz/IndiaCensusCSV.java
  com.bridgelabz.IndiaCensusCSV
+com/bridgelabz/StateCensusAnalyser.java
+ com.bridgelabz.StateCensusAnalyser
+com/bridgelabz/CSVStateCensus.java
+ com.bridgelabz.CSVStateCensus
