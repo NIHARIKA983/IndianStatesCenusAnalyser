@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.CensusAnalyserTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-08-10T07:59:22" hostname="NIHARIKA" time="0.196">
+  <properties/>
+  <testcase name="givenIndianCensusCSVFileReturnsCorrectRecords" classname="com.bridgelabz.CensusAnalyserTest" time="0.09"/>
+  <testcase name="givenWrongFilePthThrowCustomException" classname="com.bridgelabz.CensusAnalyserTest" time="0.098"/>
+  <testcase name="givenIndiaCensusData_WhenDelimiterIncorrect_ShouldThrowException" classname="com.bridgelabz.CensusAnalyserTest" time="0.002"/>
+  <testcase name="givenIndiaCensusData_WhenWrongType_ShouldThrowException" classname="com.bridgelabz.CensusAnalyserTest" time="0.002"/>
+  <system-out><![CDATA[FILE_PROBLEM
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
